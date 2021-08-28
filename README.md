@@ -20,3 +20,6 @@ Voice-enabled prescription system connecting doctors and patients.
   5.Nltk - `pip install nltk`  
   6.Spacy - `pip install spacy==2.3.5`  
   7.NameParser - `pip install nameparser`
+  
+ ## Installation:
+ After installing all the software requirements and dependencies, download all the files in this repository and run main.py
